@@ -2,7 +2,7 @@
 
 ### 💡 About Me
 
-Hi, I’m **Vidushani Wijayananda**, but online I go by **Vidu Wijay** — a short, memorable brand name for my indie dev journey.
+Hi, I’m **Vidushani Wijayananda**, but online I go by **Viduwijay** — a short, memorable brand name for my indie dev journey.
 
 My coding journey began when a **random person introduced me to programming**, and I instantly fell in love.  
 I spent **2 years dreaming** about becoming a developer... until **2025**, when I finally committed.
