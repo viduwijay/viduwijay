@@ -1,3 +1,5 @@
+![Visitor Count](https://komarev.com/ghpvc/?username=viduwijay&color=blue)
+
 <h1 align="center">Hey, I'm Vidu 👋</h1>
 
 ### 💡 About Me
