@@ -16,7 +16,7 @@ Now I’m:
 
 ---
 
-### 🛠️ Currently Learning & Using
+### 🛠️ Currently Using
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -30,7 +30,7 @@ Now I’m:
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-> 🧵 **Currently focused on:** `Tailwind CSS`
+> 🧵 **Currently focused on:** `Javascript`
 
 ---
 
@@ -55,7 +55,7 @@ Now I’m:
 - 🧠 X: [@viduwijay](https://x.com/viduwijay)  
 - 💼 LinkedIn: [linkedin.com/in/viduwijay](https://linkedin.com/in/viduwijay)
 - 🚀 Frontend Mentor: [@viduwijay](https://www.frontendmentor.io/profile/viduwijay)  
-- 🌐 Portfolio: [Coming Soon]
+- 🌐 Portfolio: [https://www.viduwijay.com/]
 - 📬 Email: `viduwijay@gmail.com`
 
 ---
